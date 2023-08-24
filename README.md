@@ -1,2 +1,2 @@
 # Easycal
-Sistema de Cadastro e Calculo de Produto com Matéria prima
+Product Registration and Calculation System with Raw Material
